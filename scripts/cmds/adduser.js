@@ -30,14 +30,14 @@ module.exports = {
 			cannotAddUser: "Bot bị chặn tính năng hoặc người dùng này chặn người lạ thêm vào nhóm"
 		},
 		en: {
-			alreadyInGroup: "Already in group",
-			successAdd: "- Successfully added %1 members to the group",
-			failedAdd: "- Failed to add %1 members to the group",
-			approve: "- Added %1 members to the approval list",
-			invalidLink: "Please enter a valid facebook link",
-			cannotGetUid: "Cannot get uid of this user",
-			linkNotExist: "This profile url does not exist",
-			cannotAddUser: "Bot is blocked or this user blocked strangers from adding to the group"
+			alreadyInGroup: "𝒅𝒆𝒋𝒂 𝒂𝒖 𝒈𝒓𝒐𝒖𝒑𝒆",
+			successAdd: "- %1 𝒎𝒆𝒎𝒃𝒓𝒆𝒔 𝒐𝒏𝒕 𝒆𝒕𝒆 𝒂𝒋𝒐𝒖𝒕𝒆𝒔 𝒂𝒗𝒆𝒄 𝒔𝒖𝒄𝒄𝒆𝒔 𝒂𝒖 𝒈𝒓𝒐𝒖𝒑𝒆",
+			failedAdd: "- 𝑬𝒄𝒉𝒆𝒄 𝒅𝒆 𝒍'𝒂𝒋𝒐𝒖𝒕𝒆 𝒅𝒆 %1 𝒎𝒆𝒎𝒃𝒓𝒆𝒔 𝒂𝒖 𝒈𝒓𝒐𝒖𝒑𝒆",
+			approve: "- %1 𝒎𝒆𝒎𝒃𝒓𝒆𝒔 𝒂𝒋𝒐𝒖𝒕𝒆𝒔 𝒂 𝒍𝒂 𝒍𝒊𝒔𝒕𝒆 𝒅'𝒂𝒑𝒑𝒓𝒐𝒃𝒂𝒕𝒊𝒐𝒏",
+			invalidLink: "𝒗𝒆𝒊𝒍𝒍𝒆𝒛 𝒆𝒏𝒕𝒓𝒆𝒓 𝒖𝒏 𝒍𝒊𝒆𝒏 𝒇𝒂𝒄𝒆𝒃𝒐𝒐𝒌 𝒗𝒂𝒍𝒊𝒅𝒆",
+			cannotGetUid: "𝒊𝒎𝒑𝒐𝒔𝒔𝒊𝒃𝒍𝒆 𝒅'𝒐𝒃𝒕𝒆𝒏𝒊𝒓 𝒍'𝒂𝒊𝒅𝒆 𝒅𝒆 𝒄𝒆𝒕 𝒖𝒕𝒊𝒍𝒊𝒔𝒂𝒕𝒆𝒖𝒓",
+			linkNotExist: "𝒄𝒆𝒕𝒕𝒆 𝑼𝑹𝑳 𝒅𝒆 𝒑𝒓𝒐𝒇𝒊𝒍𝒆 𝒏'𝒆𝒙𝒊𝒔𝒕𝒆 𝒑𝒂𝒔",
+			cannotAddUser: "𝒍𝒆 𝒃𝒐𝒕 𝒆𝒔𝒕 𝒃𝒍𝒐𝒒𝒖𝒆 𝒐𝒖 𝒄𝒆𝒕 𝒖𝒕𝒊𝒍𝒊𝒔𝒂𝒕𝒆𝒖𝒓 𝒂 𝒆𝒎𝒑𝒆𝒄𝒉𝒆 𝒅𝒆𝒔 𝒊𝒏𝒄𝒐𝒏𝒏𝒖𝒔𝒅𝒆 𝒔'𝒂𝒋𝒐𝒖𝒕𝒆𝒂𝒖 𝒈𝒓𝒐𝒖𝒑𝒆"
 		}
 	},
 
